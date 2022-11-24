@@ -1,15 +1,12 @@
 # Android OS products FAQ 
 
+## Android OS ROOT
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Is your android rooted? 
++ Yes, we can rooted android OS for you.
 ```
 
-Is your android rooted? 
-## Yes, we can rooted android OS for you.
+## 
 I mean, can I disable all add-ons in the system and leave only my application and block the ability to install other applications except my application? 
 ## Yes, we can help you disabled all you want to do. And make the android only work with your app.
 Can I install my own Android ROM there?
@@ -20,3 +17,10 @@ Can I install my own Android ROM there?
 # Debian OS products FAQ
 
 # Others
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
