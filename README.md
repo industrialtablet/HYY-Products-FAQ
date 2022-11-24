@@ -3,7 +3,6 @@
 ## Android OS ROOT
 ```diff
 - Is your android rooted?
-
 + Yes, we can rooted android OS for you.
 ```
 ## 
