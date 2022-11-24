@@ -1,5 +1,13 @@
 # Android OS products FAQ 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 Is your android rooted? 
 ## Yes, we can rooted android OS for you.
 I mean, can I disable all add-ons in the system and leave only my application and block the ability to install other applications except my application? 
