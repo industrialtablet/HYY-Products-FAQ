@@ -31,7 +31,7 @@
 
 # Debian OS products FAQ
 
-# Others
+# Others ------
 ```diff
 - text in red
 + text in green
