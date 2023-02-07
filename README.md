@@ -27,6 +27,12 @@
 + Yes, Our devices surpport standard serial protocal. It can works with UART TTL mode and RS232 mode.
 + Set the ttyS0 ttyS1 ttyS2 ttyS3 ttyS4  in software is ok.
 ```
+##
+## Support HDMI OUTPUT
+```diff
+-  And the HDMI loop out?
++ Yes it supports HDMI output.
+```
 # Ubuntu OS products FAQ
 
 # Debian OS products FAQ
