@@ -27,6 +27,16 @@
 + Yes, Our devices surpport standard serial protocal. It can works with UART TTL mode and RS232 mode.
 + Set the ttyS0 ttyS1 ttyS2 ttyS3 ttyS4  in software is ok.
 ```
+##
+## Support HDMI and USB in
+```diff
+- What about the HDMI and USB in?
++ It support USB Host 3.0 and USB Host 2.0 .It is android system, you need the HDMI input?
+- So it does not have HDMI input?
++ Yes, only has output now. And we can also do the input, but only can choose on from in and out
+- But the input support with touch?
++ It is support, can achieve it by the USB
+```
 # Ubuntu OS products FAQ
 
 # Debian OS products FAQ
