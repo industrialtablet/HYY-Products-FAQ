@@ -65,6 +65,15 @@ Question, if i want to have player with 4G/5G how can we do that?
 -  And the HDMI loop out?
 + Yes it supports HDMI output.
 ```
+##
+## Kernel device tree
+```diff
+- Ok, here is my question. I have RK3588 board which reports this model from kernel device tree: Hugsun RK3588 MINIPC LP4x V1.0 Android Board Now I need kernel changes and Android configuration (device/rockchip/rk3588 changes) so I can make my own firmware. Android 12 SDK from Rockchip I have.
+
+```
+
+
+
 # Ubuntu OS products FAQ
 
 # Debian OS products FAQ
