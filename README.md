@@ -59,6 +59,12 @@ Question, if i want to have player with 4G/5G how can we do that?
 - But the input support with touch?
 + It is support, can achieve it by the USB
 ```
+##
+## Support HDMI OUTPUT
+```diff
+-  And the HDMI loop out?
++ Yes it supports HDMI output.
+```
 # Ubuntu OS products FAQ
 
 # Debian OS products FAQ
